@@ -44,4 +44,6 @@ Com o Servidor já inicializado é possível visualizarmos no Cloud One, nesse e
 
 <img src="WSprotegido.jpg" alt="ADD Azure" width="75%"> </img>
 
-Para finalizar, aplique uma politica no Servidor no meu "Policies, basta clicar em new, definir um nome e clicar em next.
+Para finalizar, aplique uma politica no Servidor, clique com o botão direito "Actions" e "Assign Policy"
+
+<img src="policies.jpg" alt="ADD Azure" width="75%"> </img>
