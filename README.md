@@ -8,7 +8,7 @@ https://cloud.oracle.com
 * Cria uma conta no Cloud One (free)
 https://cloudone.trendmicro.com/
 
-Caso você estiver uma conta na AWS só clicar no [link] (https://aws.amazon.com/marketplace/pp/prodview-g232pyu6l55l4?ref_=srh_res_product_title)
+Se você tiver um ambiente muticloud com AWS e Oracle Cloud, você criar uma conta pelo marketplace da AWS basta clicar no [link](https://aws.amazon.com/marketplace/pp/prodview-g232pyu6l55l4?ref_=srh_res_product_title)
 
 # Provisionando uma VM (Oracle Cloud)
 
