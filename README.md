@@ -8,6 +8,8 @@ https://cloud.oracle.com
 * Cria uma conta no Cloud One (free)
 https://cloudone.trendmicro.com/
 
+Caso você estiver uma conta na AWS só clicar no [link] (https://aws.amazon.com/marketplace/pp/prodview-g232pyu6l55l4?ref_=srh_res_product_title)
+
 # Provisionando uma VM (Oracle Cloud)
 
 Navegue no menu direito até Compute > Instances também é possível usar a visualização no meu principal como o exemplo abaixo:
@@ -36,7 +38,7 @@ Novamente na console do OCI, selecione a opção "Paste cloud-init script" e col
 
 <img src="OCIinstance.jpg" alt="ADD Azure" width="75%"> </img>
 
-Enquanto o Servidor é inicilizado iremos criar uma Smart Folder para Organizarmos nosso ambiente. Acesse novamente a console do Cloud One e navegue no meu conforme abaixo no menu Computers > Smart Folde > Create Smart Folder.
+Enquanto o Servidor é inicilizado iremos criar uma Smart Folder para organizarmos nosso ambiente. Acesse novamente a console do Cloud One e navegue no meu conforme abaixo no menu Computers > Smart Folder > Create Smart Folder.
 
 <img src="SmartFolder.jpg" alt="ADD Azure" width="75%"> </img>
 
